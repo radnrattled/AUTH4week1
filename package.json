@@ -1,0 +1,25 @@
+{
+  "name": "a4_w1_nodeandnpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello from Node!\"",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trevor-FanshaweC/A4_W1_NodeAndNPM.git"
+  },
+  "keywords": [],
+  "author": "TVR",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "mysql": "^2.18.1",
+    "underscore": "^1.12.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
